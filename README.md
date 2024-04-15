@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🥰, I'm Dimas</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" alt="Smiling Face with Hearts" width="25" height="25" />, I'm Dimas</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
 <h3 align="center">Connect with me:</h3>
